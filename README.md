@@ -1,0 +1,2 @@
+# InventoryManagementSystem
+一个进销存管理系统，提供进销存管理和相关的会计核算功能
